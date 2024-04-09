@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/website?label=Gabriel-portifolio.com&style=for-the-badge&url=https://portifolio-gabriel-leal.vercel.app)](https://portifolio-gabriel-leal.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__gabriel.leal__/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://portifolio-gabriel-leal.vercel.app)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-leal-santos/)
 
 ![Leal GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriellealsantos&show_icons=true&theme=tokyonight&count_private=true)
 
