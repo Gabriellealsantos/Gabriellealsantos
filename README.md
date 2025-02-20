@@ -20,10 +20,6 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
 Cursando Análise e Desenvolvimento de Sistemas na Universidade Federal do IFBA BAIANO.
 
 As pessoas fortes não derrubam as outras, elas ajudam-nas a se erguerem.
@@ -32,3 +28,8 @@ As pessoas fortes não derrubam as outras, elas ajudam-nas a se erguerem.
 - [gabriel.lealsantos@hotmail.com](gabriel.lealsantos@hotmail.com)
 
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
