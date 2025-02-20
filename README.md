@@ -1,3 +1,4 @@
+
 ## Olá! Eu sou o Gabriel Leal 🖐️
 
 [![Blog](https://img.shields.io/website?label=Gabriel-portifolio.com&style=for-the-badge&url=https://portifolio-gabriel-leal.vercel.app)](https://portifolio-gabriel-leal.vercel.app)
@@ -11,7 +12,7 @@
     <p align="start" style="margin: 0;"><img align="center" src="https://profile-counter.glitch.me/{Gabriellealsantos}/count.svg" /></p> 
 </div>
 
-## Tecnologias que eu uso no meu dia
+## 🚀 Linguagens de Programação
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -24,9 +25,9 @@ Cursando Análise e Desenvolvimento de Sistemas na Universidade Federal do IFBA 
 
 As pessoas fortes não derrubam as outras, elas ajudam-nas a se erguerem.
 
+## 📫 Contato
 ### Email para contato:
 - [gabriel.lealsantos@hotmail.com](gabriel.lealsantos@hotmail.com)
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
