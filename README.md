@@ -7,11 +7,6 @@
 
 ![Leal GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriellealsantos&show_icons=true&theme=tokyonight&count_private=true)
 
-## Contador de visitas
-<div align="start">
-    <p align="start" style="margin: 0;"><img align="center" src="https://profile-counter.glitch.me/{Gabriellealsantos}/count.svg" /></p> 
-</div>
-
 ## 🚀 Linguagens de Programação
 
 <div style="display: inline_block">
